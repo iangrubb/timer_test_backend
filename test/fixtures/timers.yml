@@ -1,7 +1,11 @@
 # Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
 one:
-  seconds_remaining: 1
+  running: false
+  seconds_remaining: 1.5
+  completion_time: 2019-12-02 17:54:36
 
 two:
-  seconds_remaining: 1
+  running: false
+  seconds_remaining: 1.5
+  completion_time: 2019-12-02 17:54:36
